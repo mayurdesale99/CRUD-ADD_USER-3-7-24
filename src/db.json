@@ -1,0 +1,33 @@
+{
+  "users": [
+    {
+      "name": "vishal",
+      "email": "vishal@gmail.com",
+      "id": "9874"
+    },
+    {
+      "name": "mayur desale",
+      "email": "mayur@yesenia.net",
+      "id": "e829"
+    },
+    {
+      "name": "Mayur Bhausaheb Desale",
+      "email": "mayur.desale@mphasis.com",
+      "id": "fb6c"
+    },
+    {
+      "id": "7187",
+      "name": "Mayur Bhausaheb Desale",
+      "email": "sc@gmail.com",
+      "address": "zz",
+      "phone": "z"
+    },
+    {
+      "id": "ae35",
+      "name": "Mayur Desale",
+      "email": "mayur@gmail.com",
+      "address": "Nashik",
+      "phone": "9921790350"
+    }
+  ]
+}
